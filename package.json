@@ -1,0 +1,13 @@
+{
+  "name": "dark-theme",
+  "title": "Minimal Dark Theme ",
+  "displayName": "Minimal Dark Theme (OLED)",
+  "theme": "ui",
+  "version": "0.1.0",
+  "description": "A great dark theme! for all oled Screen",
+  "license": "MIT",
+  "engines": {
+    "mailspring": "*"
+  }
+}
+
